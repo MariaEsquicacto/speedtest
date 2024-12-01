@@ -64,6 +64,7 @@ body {
 
 .button:hover {
     background: #ff7e06;
+    transform: scale(1.1);
 }
 
 @media (max-width: 600px) {
